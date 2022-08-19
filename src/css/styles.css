@@ -282,8 +282,9 @@ button, input {
 
 /* ==================== Education Page ==================== */
 .education {
-    background-color: #5A249E;
+    background-color: #a0a0a0;
 }
+
 
 .education-content {
     display: flex;
