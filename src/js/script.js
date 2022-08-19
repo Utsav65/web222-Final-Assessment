@@ -149,7 +149,7 @@ function validateEmail() {
 function validateAddress() {
     const address = document.getElementById('address');
     if (nullChecker(address, 'Address')) {
-        if (address.value.length < 10) {
+        if (address.value.length < 5) {
             messages.push("- Address should be atleast 10 characters long");
         }
     }
