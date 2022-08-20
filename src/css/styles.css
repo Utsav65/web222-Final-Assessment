@@ -435,7 +435,7 @@ form .btn {
     transition: 0.6s;
 }
 
-/* ==================== Making the website responsive using media queries ==================== */
+/* == Making the website responsive using media queries == */
 /* Smaller Size */
 @media (max-width: 850px) {
     .menu-icon {
